@@ -52,5 +52,63 @@ In this module we will learn the basics of HTML5. We'll start with instructional
   35. Reading: CONNECT WITH ME!
   36. Video: Module 1 Wrap-Up
 
+## Week 2
+### Introduction to CSS3
+A lot of people "tinker" with CSS. In this module, we'll take you from the very basics of CSS3 to some fairly advanced 
+concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', background property, etc. 
+We'll finish off the module with learning about Responsive Design using our own CSS code as well as start introducing 
+Twitter Bootstrap with its essential Grid System.
+
+27 videos, 4 readings, 14 practice quizzes
+  1. Video: Welcome to Module 2: Introduction to CSS3
+  2. Reading: Recommended Books
+  3. Reading: New Tutorials - here is how...
+  4. Video: Lecture 11: Power of CSS
+  5. Video: Lecture 12: Anatomy of a CSS Rule
+  6. Practice Quiz: Optional Practice Quiz
+  7. Video: Lecture 13: Element, Class, and ID Selectors
+  8. Practice Quiz: Optional Practice Quiz
+  9. Video: Lecture 14: Combining Selectors
+  10. Practice Quiz: Optional Practice Quiz
+  11. Video: Lecture 15: Pseudo-Class Selectors
+  12. Practice Quiz: Optional Practice Quiz
+  13. Video: Lecture 16: Style Placement
+  14. Practice Quiz: Optional Practice Quiz
+  15. Video: Lecture 17, Part 1: Conflict Resolution
+  16. Video: Lecture 17, Part 2: Conflict Resolution
+  17. Practice Quiz: Optional Practice Quiz
+  18. Video: Lecture 18, Part 1: Styling Text
+  19. Video: Lecture 18, Part 2: Styling Text
+  20. Reading: CONNECT WITH ME!
+  21. Practice Quiz: Optional Practice Quiz
+  22. Video: Lecture 19, Part 1: The Box Model
+  23. Video: Lecture 19, Part 2: The Box Model
+  24. Video: Lecture 19, Part 3: The Box Model
+  25. Practice Quiz: Optional Practice Quiz
+  26. Video: Lecture 20: The background Property
+  27. Practice Quiz: Optional Practice Quiz
+  28. Video: Lecture 21: Positioning Elements by Floating
+  29. Practice Quiz: Optional Practice Quiz
+  30. Video: Lecture 22, Part 1: Relative and Absolute Element Positioning
+  31. Video: Lecture 22, Part 2: Relative and Absolute Element Positioning
+  32. Practice Quiz: Optional Practice Quiz
+  33. Video: Lecture 23, Part 1: Media Queries
+  34. Video: Lecture 23, Part 2: Media Queries
+  35. Practice Quiz: Optional Practice Quiz
+  36. Video: Lecture 24, Part 1: Responsive Design
+  37. Video: Lecture 24, Part 2: Responsive Design
+  38. Practice Quiz: Optional Practice Quiz
+  39. Video: Lecture 25, Part 1: Introduction to Twitter Bootstrap
+  40. Video: Lecture 25, Part 2: Introduction to Twitter Bootstrap
+  41. Video: Lecture 26, Part 1: The Bootstrap Grid System
+  42. Video: Lecture 26, Part 2: The Bootstrap Grid System
+  43. Practice Quiz: Optional Practice Quiz
+  44. Reading: Frequently Asked Questions
+  45. Video: Module 2 Wrap-Up
+
+
+
+
+
       
 
