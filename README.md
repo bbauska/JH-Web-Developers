@@ -14,9 +14,10 @@ utilizes Ajax to expose server-side functionality and data to the end user.
 In this module we will learn the basics of HTML5. We'll start with instructional videos on how to set up your development environment, go over HTML5 basics like valid document structure, which elements can be included inside other elements and which can not, discuss the meaning and usefulness of HTML5 semantic tags, and go over essential HTML5 tags.
 
 18 videos, 7 readings, 11 practice quizzes
-Video: Course Introduction
-Reading: How Grading and Being Late on Assignments Works
-Reading: Recommended Books
+
+  1. Video: Course Introduction
+  2. Reading: How Grading and Being Late on Assignments Works
+  3. Reading: Recommended Books
 Reading: CHECK OUT MY SITE!
 Reading: ALL of the EXAMPLE SOURCE CODE for this Course
 Reading: Frequently Asked Questions (FAQ)
