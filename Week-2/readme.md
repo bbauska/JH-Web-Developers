@@ -1,4 +1,4 @@
-# Week 02 - Introduction to CSS3
+# Week 2 - Introduction to CSS3
 
 A lot of people "tinker" with CSS. In this module, we'll take you from the very basics of CSS3 to some 
 fairly advanced concepts like floating and CSS rule conflict resolution. We'll go over the 'box model', 
