@@ -1,5 +1,5 @@
-# Week 3
-## Coding the Static Restaurant Site
+# Week 3 - Coding the Static Restaurant Site
+
 Ready for some REAL fun? This module is it! We'll go over some basics of interacting with a client when managing 
 a web site project and then go visit a real client at their place of business (a Chinese restaurant), help the 
 owner figure out what she wants in a site, and get acquainted with the restaurant in general. We'll spend the 
