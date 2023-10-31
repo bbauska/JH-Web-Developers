@@ -236,6 +236,11 @@ dynamically from the server without having to reload the entire page.
   25. Video: Course Wrap-Up
   26. Reading: CONNECT WITH ME!
 
+
+## Frequently Asked Questions (FAQ)
+Please find the FAQ for this course at this URL: 
+https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/FAQ.md
+
 that it!  the end.
 
 
