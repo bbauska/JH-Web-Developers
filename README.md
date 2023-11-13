@@ -1,4 +1,4 @@
-# JH-For-Web-Developers
+# JH-Web-Developers
 ## Johns Hopkins University - HTML, CSS, JavaScript for Web Developers
 
 In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by 
