@@ -18,9 +18,13 @@ In this module we will learn the basics of HTML5. We'll start with instructional
   1. Video: Course Introduction
      
     a. Reading: How Grading and Being Late on Assignments Works<br>
+    
     b. Reading: Recommended Books<br>
+    
     c. Reading: CHECK OUT MY SITE!<br>
+    
     d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course<br>
+    
     e. Reading: Frequently Asked Questions (FAQ)<br>
   
   2. Video: Welcome to Module 1: Introduction to HTML5
