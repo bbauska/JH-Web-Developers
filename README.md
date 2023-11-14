@@ -44,8 +44,9 @@ In this module we will learn the basics of HTML5. We'll start with instructional
   16. Video: Lecture 9: Creating Links
   17. Video: Lecture 10: Displaying Images
   
-    f. Reading: Frequently Asked Questions<br>
-    g. Reading: CONNECT WITH ME!<br>
+    f. Reading: Frequently Asked Questions
+    
+    g. Reading: CONNECT WITH ME!
   
   18. Video: Module 1 Wrap-Up
 
@@ -59,7 +60,8 @@ Twitter Bootstrap with its essential Grid System.
 27 videos, 4 readings
   1. Video: Welcome to Module 2: Introduction to CSS3
 
-    a. Reading: Recommended Books<br>
+    a. Reading: Recommended Books
+    
     b. Reading: New Tutorials - here is how...
   
   2. Video: Lecture 11: Power of CSS
@@ -219,9 +221,11 @@ dynamically from the server without having to reload the entire page.
   15. Video: Lecture 62: Dynamically Loading Single Category View
   16. Video: Lecture 63: Changing 'active' Button Style Through Javascript
       
-    c. Reading: Check out the final deployed site<br>
-    d. Reading: Frequently Asked Questions<br>
-    e. Reading: New Tutorials - here is how...<br>
+    c. Reading: Check out the final deployed site
+    
+    d. Reading: Frequently Asked Questions
+    
+    e. Reading: New Tutorials - here is how...
   
   17. Video: Course Wrap-Up
       
