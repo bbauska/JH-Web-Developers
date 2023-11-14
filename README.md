@@ -17,11 +17,11 @@ In this module we will learn the basics of HTML5. We'll start with instructional
 
   1. Video: Course Introduction
      
-  a. Reading: How Grading and Being Late on Assignments Works
-  b. Reading: Recommended Books
-  c. Reading: CHECK OUT MY SITE!
-  d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course
-  e. Reading: Frequently Asked Questions (FAQ)
+  a. Reading: How Grading and Being Late on Assignments Works<br>
+  b. Reading: Recommended Books<br>
+  c. Reading: CHECK OUT MY SITE!<br>
+  d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course<br>
+  e. Reading: Frequently Asked Questions (FAQ)<br>
   
   3. Video: Welcome to Module 1: Introduction to HTML5
   4. Video: Development Environment Setup, Part 1
@@ -40,8 +40,8 @@ In this module we will learn the basics of HTML5. We'll start with instructional
   17. Video: Lecture 9: Creating Links
   18. Video: Lecture 10: Displaying Images
   
-  f. Reading: Frequently Asked Questions
-  g. Reading: CONNECT WITH ME!
+  f. Reading: Frequently Asked Questions<br>
+  g. Reading: CONNECT WITH ME!<br>
   
   19. Video: Module 1 Wrap-Up
 
@@ -55,41 +55,41 @@ Twitter Bootstrap with its essential Grid System.
 27 videos, 4 readings
   1. Video: Welcome to Module 2: Introduction to CSS3
 
-  a. Reading: Recommended Books
+  a. Reading: Recommended Books<br>
   b. Reading: New Tutorials - here is how...
   
-  3. Video: Lecture 11: Power of CSS
-  4. Video: Lecture 12: Anatomy of a CSS Rule
-  5. Video: Lecture 13: Element, Class, and ID Selectors
-  6. Video: Lecture 14: Combining Selectors
-  7. Video: Lecture 15: Pseudo-Class Selectors
-  8. Video: Lecture 16: Style Placement
-  9. Video: Lecture 17, Part 1: Conflict Resolution
-  10. Video: Lecture 17, Part 2: Conflict Resolution
-  11. Video: Lecture 18, Part 1: Styling Text
-  12. Video: Lecture 18, Part 2: Styling Text
+  2. Video: Lecture 11: Power of CSS
+  3. Video: Lecture 12: Anatomy of a CSS Rule
+  4. Video: Lecture 13: Element, Class, and ID Selectors
+  5. Video: Lecture 14: Combining Selectors
+  6. Video: Lecture 15: Pseudo-Class Selectors
+  7. Video: Lecture 16: Style Placement
+  8. Video: Lecture 17, Part 1: Conflict Resolution
+  9. Video: Lecture 17, Part 2: Conflict Resolution
+  10. Video: Lecture 18, Part 1: Styling Text
+  11. Video: Lecture 18, Part 2: Styling Text
 
   c. Reading: CONNECT WITH ME!
 
-  14. Video: Lecture 19, Part 1: The Box Model
-  15. Video: Lecture 19, Part 2: The Box Model
-  16. Video: Lecture 19, Part 3: The Box Model
-  17. Video: Lecture 20: The background Property
-  18. Video: Lecture 21: Positioning Elements by Floating
-  19. Video: Lecture 22, Part 1: Relative and Absolute Element Positioning
-  20. Video: Lecture 22, Part 2: Relative and Absolute Element Positioning
-  21. Video: Lecture 23, Part 1: Media Queries
-  22. Video: Lecture 23, Part 2: Media Queries
-  23. Video: Lecture 24, Part 1: Responsive Design
-  24. Video: Lecture 24, Part 2: Responsive Design
-  25. Video: Lecture 25, Part 1: Introduction to Twitter Bootstrap
-  26. Video: Lecture 25, Part 2: Introduction to Twitter Bootstrap
-  27. Video: Lecture 26, Part 1: The Bootstrap Grid System
-  28. Video: Lecture 26, Part 2: The Bootstrap Grid System
+  12. Video: Lecture 19, Part 1: The Box Model
+  13. Video: Lecture 19, Part 2: The Box Model
+  14. Video: Lecture 19, Part 3: The Box Model
+  15. Video: Lecture 20: The background Property
+  16. Video: Lecture 21: Positioning Elements by Floating
+  17. Video: Lecture 22, Part 1: Relative and Absolute Element Positioning
+  18. Video: Lecture 22, Part 2: Relative and Absolute Element Positioning
+  19. Video: Lecture 23, Part 1: Media Queries
+  20. Video: Lecture 23, Part 2: Media Queries
+  21. Video: Lecture 24, Part 1: Responsive Design
+  22. Video: Lecture 24, Part 2: Responsive Design
+  23. Video: Lecture 25, Part 1: Introduction to Twitter Bootstrap
+  24. Video: Lecture 25, Part 2: Introduction to Twitter Bootstrap
+  25. Video: Lecture 26, Part 1: The Bootstrap Grid System
+  26. Video: Lecture 26, Part 2: The Bootstrap Grid System
       
   d. Reading: Frequently Asked Questions
   
-  30. Video: Module 2 Wrap-Up
+  27. Video: Module 2 Wrap-Up
 
 ## Week 3
 ### Coding the Static Restaurant Site
@@ -215,11 +215,12 @@ dynamically from the server without having to reload the entire page.
   15. Video: Lecture 62: Dynamically Loading Single Category View
   16. Video: Lecture 63: Changing 'active' Button Style Through Javascript
       
-  c. Reading: Check out the final deployed site
-  d. Reading: Frequently Asked Questions
-  e. Reading: New Tutorials - here is how...
+  c. Reading: Check out the final deployed site<br>
+  d. Reading: Frequently Asked Questions<br>
+  e. Reading: New Tutorials - here is how...<br>
   
   17. Video: Course Wrap-Up
+      
   f. Reading: CONNECT WITH ME!
 
 
