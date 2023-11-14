@@ -17,15 +17,15 @@ In this module we will learn the basics of HTML5. We'll start with instructional
 
   1. Video: Course Introduction
      
-    a. Reading: How Grading and Being Late on Assignments Works<br>
+    a. Reading: How Grading and Being Late on Assignments Works
     
     b. Reading: Recommended Books
     
-    c. Reading: CHECK OUT MY SITE!<br>
+    c. Reading: CHECK OUT MY SITE!
     
-    d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course<br>
+    d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course
     
-    e. Reading: Frequently Asked Questions (FAQ)<br>
+    e. Reading: Frequently Asked Questions (FAQ)
   
   2. Video: Welcome to Module 1: Introduction to HTML5
   3. Video: Development Environment Setup, Part 1
