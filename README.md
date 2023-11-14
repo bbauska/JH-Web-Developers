@@ -19,7 +19,7 @@ In this module we will learn the basics of HTML5. We'll start with instructional
      
     a. Reading: How Grading and Being Late on Assignments Works<br>
     
-    b. Reading: Recommended Books<br>
+    b. Reading: Recommended Books
     
     c. Reading: CHECK OUT MY SITE!<br>
     
