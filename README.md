@@ -17,33 +17,33 @@ In this module we will learn the basics of HTML5. We'll start with instructional
 
   1. Video: Course Introduction
      
-  a. Reading: How Grading and Being Late on Assignments Works<br>
-  b. Reading: Recommended Books<br>
-  c. Reading: CHECK OUT MY SITE!<br>
-  d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course<br>
-  e. Reading: Frequently Asked Questions (FAQ)<br>
+    a. Reading: How Grading and Being Late on Assignments Works<br>
+    b. Reading: Recommended Books<br>
+    c. Reading: CHECK OUT MY SITE!<br>
+    d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course<br>
+    e. Reading: Frequently Asked Questions (FAQ)<br>
   
-  3. Video: Welcome to Module 1: Introduction to HTML5
-  4. Video: Development Environment Setup, Part 1
-  5. Video: Development Environment Setup, Part 2: MacOS
-  6. Video: Development Environment Setup, Part 2: Windows
-  7. Video: Development Environment Setup, Part 3: Github and Browser Sync
-  8. Video: Resources for Asking Questions
-  9. Video: Lecture 1: What is HTML?
-  10. Video: Lecture 2: Relevant History of HTML
-  11. Video: Lecture 3: Anatomy of an HTML Tag
-  12. Video: Lecture 4: Basic HTML Document Structure
-  13. Video: Lecture 5: HTML Content Models
-  14. Video: Lecture 6: Heading Elements (and some new HTML5 semantic comments)
-  15. Video: Lecture 7: Lists
-  16. Video: Lecture 8: HTML Character Entity References
-  17. Video: Lecture 9: Creating Links
-  18. Video: Lecture 10: Displaying Images
+  2. Video: Welcome to Module 1: Introduction to HTML5
+  3. Video: Development Environment Setup, Part 1
+  4. Video: Development Environment Setup, Part 2: MacOS
+  5. Video: Development Environment Setup, Part 2: Windows
+  6. Video: Development Environment Setup, Part 3: Github and Browser Sync
+  7. Video: Resources for Asking Questions
+  8. Video: Lecture 1: What is HTML?
+  9. Video: Lecture 2: Relevant History of HTML
+  10. Video: Lecture 3: Anatomy of an HTML Tag
+  11. Video: Lecture 4: Basic HTML Document Structure
+  12. Video: Lecture 5: HTML Content Models
+  13. Video: Lecture 6: Heading Elements (and some new HTML5 semantic comments)
+  14. Video: Lecture 7: Lists
+  15. Video: Lecture 8: HTML Character Entity References
+  16. Video: Lecture 9: Creating Links
+  17. Video: Lecture 10: Displaying Images
   
-  f. Reading: Frequently Asked Questions<br>
-  g. Reading: CONNECT WITH ME!<br>
+    f. Reading: Frequently Asked Questions<br>
+    g. Reading: CONNECT WITH ME!<br>
   
-  19. Video: Module 1 Wrap-Up
+  18. Video: Module 1 Wrap-Up
 
 ## Week 2
 ### Introduction to CSS3
@@ -55,8 +55,8 @@ Twitter Bootstrap with its essential Grid System.
 27 videos, 4 readings
   1. Video: Welcome to Module 2: Introduction to CSS3
 
-  a. Reading: Recommended Books<br>
-  b. Reading: New Tutorials - here is how...
+    a. Reading: Recommended Books<br>
+    b. Reading: New Tutorials - here is how...
   
   2. Video: Lecture 11: Power of CSS
   3. Video: Lecture 12: Anatomy of a CSS Rule
@@ -69,7 +69,7 @@ Twitter Bootstrap with its essential Grid System.
   10. Video: Lecture 18, Part 1: Styling Text
   11. Video: Lecture 18, Part 2: Styling Text
 
-  c. Reading: CONNECT WITH ME!
+    c. Reading: CONNECT WITH ME!
 
   12. Video: Lecture 19, Part 1: The Box Model
   13. Video: Lecture 19, Part 2: The Box Model
@@ -87,7 +87,7 @@ Twitter Bootstrap with its essential Grid System.
   25. Video: Lecture 26, Part 1: The Bootstrap Grid System
   26. Video: Lecture 26, Part 2: The Bootstrap Grid System
       
-  d. Reading: Frequently Asked Questions
+    d. Reading: Frequently Asked Questions
   
   27. Video: Module 2 Wrap-Up
 
@@ -102,12 +102,12 @@ and watch as the site comes together.
 24 videos, 3 readings
   1. Video: Welcome to Module 3: Coding the Static Restaurant Site
 
-  a. Reading: Recommended Books
+    a. Reading: Recommended Books
 
   2. Video: Lecture 27, Part 1: Visit with the Client
   3. Video: Lecture 27, Part 2: Visit with the Client (Field Trip)
      
-  b. Reading: New Tutorials - here is how...
+    b. Reading: New Tutorials - here is how...
   
   4. Video: Lecture 28: Design Overview
   5. Video: Lecture 29: Some Ground Rules and Overview of Setup
@@ -130,7 +130,7 @@ and watch as the site comes together.
   22. Video: Lecture 38, Part 3: Coding the Single Menu Category Page
   23. Video: Lecture 39: Testing the Mobile Version on a Real Phone
       
-  c. Reading: Frequently Asked Questions
+    c. Reading: Frequently Asked Questions
   
   24. Video: Module 3 Wrap-Up
 
@@ -147,7 +147,7 @@ objects, functions, arrays, closures, and scope isolation.
 24 videos, 3 readings
   1. Video: Welcome to Module 4: Introduction to Javascript
      
-  a. Reading: Recommended Books
+    a. Reading: Recommended Books
   
   2. Video: Lecture 40, Part 1: Adjusting Development Environment for Javascript Development
   3. Video: Lecture 40, Part 2: Where to Place Javascript Code
@@ -167,7 +167,7 @@ objects, functions, arrays, closures, and scope isolation.
   17. Video: Lecture 48: Function Constructors, prototype, and the 'this' Keyword
   18. Video: Lecture 49: Object Literals and the 'this' Keyword
       
-  b. Reading: New Tutorials - here is how...
+    b. Reading: New Tutorials - here is how...
   
   19. Video: Lecture 50, Part 1: Arrays
   20. Video: Lecture 50, Part 2: Arrays
@@ -175,7 +175,7 @@ objects, functions, arrays, closures, and scope isolation.
   22. Video: Lecture 52, Part 1: Fake Namespaces
   23. Video: Lecture 52, Part 2: Immediately Invoked Function Expressions (IIFEs)
       
-  c. Reading: Frequently Asked Questions
+    c. Reading: Frequently Asked Questions
   
   24. Video: Module 4 Wrap-Up
 
@@ -194,14 +194,14 @@ dynamically from the server without having to reload the entire page.
 17 videos, 6 readings
   1. Video: Welcome to Module 5: Using Javascript to Build Web Applications
      
-  a. Reading: Recommended Books
+    a. Reading: Recommended Books
   
   2. Video: Lecture 53, Part 1: DOM Manipulation
   3. Video: Lecture 53, Part 2: DOM Manipulation
   4. Video: Lecture 54: Handling Events
   5. Video: Lecture 55: The 'event' Argument
      
-  b. Reading: CONNECT WITH ME!
+    b. Reading: CONNECT WITH ME!
   
   6. Video: Lesson 56: HTTP Basics
   7. Video: Lesson 57, Part 1: Ajax Basics
@@ -215,13 +215,13 @@ dynamically from the server without having to reload the entire page.
   15. Video: Lecture 62: Dynamically Loading Single Category View
   16. Video: Lecture 63: Changing 'active' Button Style Through Javascript
       
-  c. Reading: Check out the final deployed site<br>
-  d. Reading: Frequently Asked Questions<br>
-  e. Reading: New Tutorials - here is how...<br>
+    c. Reading: Check out the final deployed site<br>
+    d. Reading: Frequently Asked Questions<br>
+    e. Reading: New Tutorials - here is how...<br>
   
   17. Video: Course Wrap-Up
       
-  f. Reading: CONNECT WITH ME!
+    f. Reading: CONNECT WITH ME!
 
 
 ## Frequently Asked Questions (FAQ)
