@@ -17,15 +17,15 @@ In this module we will learn the basics of HTML5. We'll start with instructional
 
   1. Video: Course Introduction
      
-    a. Reading: How Grading and Being Late on Assignments Works
+    i. Reading: How Grading and Being Late on Assignments Works
     
-    b. Reading: Recommended Books
+    ii. Reading: Recommended Books
     
-    c. Reading: CHECK OUT MY SITE!
+    iii. Reading: CHECK OUT MY SITE!
     
-    d. Reading: ALL of the EXAMPLE SOURCE CODE for this Course
+    iv. Reading: ALL of the EXAMPLE SOURCE CODE for this Course
     
-    e. Reading: Frequently Asked Questions (FAQ)
+    v. Reading: Frequently Asked Questions (FAQ)
   
   2. Video: Welcome to Module 1: Introduction to HTML5
   3. Video: Development Environment Setup, Part 1
@@ -44,9 +44,9 @@ In this module we will learn the basics of HTML5. We'll start with instructional
   16. Video: Lecture 9: Creating Links
   17. Video: Lecture 10: Displaying Images
   
-    f. Reading: Frequently Asked Questions
+    vi. Reading: Frequently Asked Questions
     
-    g. Reading: CONNECT WITH ME!
+    vii. Reading: CONNECT WITH ME!
   
   18. Video: Module 1 Wrap-Up
 
@@ -60,9 +60,9 @@ Twitter Bootstrap with its essential Grid System.
 27 videos, 4 readings
   1. Video: Welcome to Module 2: Introduction to CSS3
 
-    a. Reading: Recommended Books
+    I. Reading: Recommended Books
     
-    b. Reading: New Tutorials - here is how...
+    II. Reading: New Tutorials - here is how...
   
   2. Video: Lecture 11: Power of CSS
   3. Video: Lecture 12: Anatomy of a CSS Rule
@@ -75,7 +75,7 @@ Twitter Bootstrap with its essential Grid System.
   10. Video: Lecture 18, Part 1: Styling Text
   11. Video: Lecture 18, Part 2: Styling Text
 
-    c. Reading: CONNECT WITH ME!
+    III. Reading: CONNECT WITH ME!
 
   12. Video: Lecture 19, Part 1: The Box Model
   13. Video: Lecture 19, Part 2: The Box Model
@@ -93,7 +93,7 @@ Twitter Bootstrap with its essential Grid System.
   25. Video: Lecture 26, Part 1: The Bootstrap Grid System
   26. Video: Lecture 26, Part 2: The Bootstrap Grid System
       
-    d. Reading: Frequently Asked Questions
+    IV. Reading: Frequently Asked Questions
   
   27. Video: Module 2 Wrap-Up
 
